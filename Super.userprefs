@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NPC.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PowerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LivingEntity.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Economy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NPC.cs" Line="68" Column="73" />
+      <File FileName="Assets\Scripts\PlayerStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Mission.cs" Line="41" Column="18" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScripts\FlyBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Powers\Super Speed\Super_Speed.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
